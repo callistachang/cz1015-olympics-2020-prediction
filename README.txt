@@ -33,17 +33,7 @@ Please go through our Jupyter Notebooks in the following order!
 
 ================================================================================
 
-For a brief overview of our project and individual contributions, check out our
-presentation slides!
-
-The folder 'Misc. Data Exploration' consists of some of the things we did which
-we thought wouldn't fit the flow of the project, or didn't produce desirable
-results. These include different methods of data cleaning as well as clustering 
-and anomaly detection models. But we wanted to show our effort anyway!
-
-================================================================================
-
 CX1015 18/19 SEM 2 MINI-PROJECT GROUP 6
-Callista Chang 	| U1821324G
-Ooi Yuxuan 	| U1822211J
-Wu Sibing 	| U1822553G
+Callista Chang 
+Ooi Yuxuan
+Wu Sibing 	
